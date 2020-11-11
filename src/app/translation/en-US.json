@@ -1,5 +1,5 @@
 {
-    "title": "Golchain Lite Blockchain Explorer",
+    "title": "Golchain Explorer",
     "description": "Client only, super light weight and entirely open source Ethereum blockchain explorer.",
 
     "general.error.notFound": "404 - Not Found",
